@@ -6,7 +6,6 @@ Created on Thu Jun  9 11:55:19 2022
 test for python engineer
 """
 
-import logging 
 
 
     
